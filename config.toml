@@ -1,0 +1,4 @@
+baseURL = 'http://erngetsgood.com/'
+languageCode = 'en-us'
+title = 'Ern Gets Good'
+theme = "hugo-swift-theme"
